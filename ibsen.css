@@ -33,3 +33,41 @@
     text-shadow: 2px 2px 6px blue;
     border:dotted;
 }
+table{
+    width: 100%;
+    border:3px solid;
+    /*border-style: dashed;*/
+}
+th{
+   /* border-style: dotted;*/
+   border:3px solid;
+    color:crimson;
+    text-align: center;    
+    margin:auto;
+}
+table, th{
+    border:1px solid;
+    border-collapse: collapse;
+}
+th{
+    color:red;
+}
+td{
+    border:1px solid;
+    /* color: crimson; */
+    border-top:1px solid;
+    border-bottom:1px solid;
+}
+tr{
+    border:3px solid ;
+    border-style:dashed;
+    text-align: center;
+    margin: auto;
+    padding: 1%;
+    color:blueviolet;
+    /* border-top:1px solid black;
+    border-bottom:5px solid brown; */
+}
+tr:nth-child(odd){
+    border-radius: 1%;
+}
