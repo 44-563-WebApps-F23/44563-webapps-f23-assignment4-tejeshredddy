@@ -25,10 +25,9 @@
     border:dashed;
 }
 .MRS.SOLNESS{
-    color:aquamarine;
-    font-size:large;
+    color:chocolate;
 }
-.MRS.SOLNESS:hover{
+.MRS SOLNESS:hover{
     background-color: gold;
     text-align: center;
     text-shadow: 2px 2px 6px blue;
