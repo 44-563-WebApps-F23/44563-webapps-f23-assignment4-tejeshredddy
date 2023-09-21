@@ -9,12 +9,10 @@
     color: orange;
     background-color:aqua;
 }
-
 .direction:hover{
     background-color: greenyellow;
     color:black;
 }
-
 .SOLNESS{
     color:blue; 
 }
