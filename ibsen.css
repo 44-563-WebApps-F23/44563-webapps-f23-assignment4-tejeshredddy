@@ -73,53 +73,28 @@ tr:nth-child(odd){
     border-radius: 1%;
 }
 .navbar-horizontal{
-
     list-style-type: none;
-
     margin: 0;
-
     padding: 0;
-
     overflow:hidden;
-
     background-color:burlywood;
-
 }
-
 li{
-
     float: left;
-
 }
-
 li a{
-
     display: block;
-
     color: black;
-
     text-align: center;
-
     padding: 14px 16px;
-
     text-decoration:dotted;
-
 }
-
 li a:hover:not(.active) {
-
     background-color:green;
-
 }
-
 .active {
-
     background-color:goldenrod;
-
-}
-           
+}  
 .material-icons{
-
 color:red;
-
 }
