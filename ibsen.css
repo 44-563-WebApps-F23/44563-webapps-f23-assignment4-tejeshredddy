@@ -50,13 +50,14 @@ table, th{
     border-collapse: collapse;
 }
 th{
-    color:red;
+    color:coral;
 }
 td{
     border:1px solid;
     /* color: crimson; */
     border-top:1px solid;
     border-bottom:1px solid;
+    font-style: italic;
 }
 tr{
     border:3px solid ;
